@@ -9,13 +9,13 @@ Browser user interfaces have a lot in common with each othe.Among the common use
                         *Home buttons that takes you to your home page.
 
 THE BROWSER MAIN COMPONENTS
-  The userinterface.
-  Browser engine-marshals actions between the UI and the rendering engine.
-  The rendering engine-responsible for displaying request content eg HTML and CSS and displays the parsed content on the screen.
-  Networking-for network calls such as HTTP request,using different implementations for different platform behind a platform independent interface 
-  UI Backend-used for drawing basic widgets like combo boxes and windows.
-  Java Script Interpreter-used to parse and execute java script code
-  Data Storage-This is a persistence layer.The browser may need to store all sorts of data locally such as cookies
+  1 The userinterface.
+  2 Browser engine-marshals actions between the UI and the rendering engine.
+  3 The rendering engine-responsible for displaying request content eg HTML and CSS and displays the parsed content on the screen.
+  4 Networking-for network calls such as HTTP request,using different implementations for different platform behind a platform independent interface 
+  5 UI Backend-used for drawing basic widgets like combo boxes and windows.
+  6 Java Script Interpreter-used to parse and execute java script code
+  7 Data Storage-This is a persistence layer.The browser may need to store all sorts of data locally such as cookies
   
   SOURCE
   (http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
