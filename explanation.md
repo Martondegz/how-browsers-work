@@ -9,7 +9,7 @@ Browser user interfaces have a lot in common with each othe.Among the common use
                         *Home buttons that takes you to your home page.
 
 THE BROWSER MAIN COMPONENTS
-  1 The userinterface.
+  1 The user interface.
   2 Browser engine-marshals actions between the UI and the rendering engine.
   3 The rendering engine-responsible for displaying request content eg HTML and CSS and displays the parsed content on the screen.
   4 Networking-for network calls such as HTTP request,using different implementations for different platform behind a platform independent interface 
