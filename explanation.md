@@ -18,4 +18,4 @@ Browser user interfaces have a lot in common with each othe.Among the common use
   7 Data Storage-This is a persistence layer.The browser may need to store all sorts of data locally such as cookies<br />
   
   **Source**
- *** (http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)***
+  ***(http://www.html5rocks.com/en/tutorials/internals/howbrowserswork)***
