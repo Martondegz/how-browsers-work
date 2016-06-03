@@ -6,7 +6,7 @@ Browser user interfaces have a lot in common with each othe.Among the common use
                         **Back and forward buttons**
                         **Bookmarking options**
                         **Refresh and stop buttons for refreshing or stopping the load current documents**
-                        **Home buttons that takes you to your home page**<
+                        **Home buttons that takes you to your home page**
 
 **THE BROWSER MAIN COMPONENTS**<br />
   1 The user interface.<br />
